@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Topta specific
+*.mp3
+/ongeloofenv
+/.spx
+/.spx/*
+/audio/*
+
+
+
 # C extensions
 *.so
 
