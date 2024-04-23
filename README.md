@@ -6,12 +6,11 @@ In Episode 181 of the [Ongelooflijke Podcast](https://www.eo.nl/podcasts/de-onge
 
 > In how many episodes do we mention Augustinus? Co-host Stefan Paas thinks it is 80%.
 
-Challenge accepted! 
-
 This codebase analyses all the podcast (up to episode 189) for occurrences of Augustinus by downloading all episodes, performing a speech-to-text conversion and finally the counting. 
 
 ## Result
 The count of the word Augustinus per episode. 
+
 ![Number of Augustinus per episode](aug-raw.png)
 
 In 73 out of 189 analysed episodes Augustinus is mentioned. 
