@@ -40,6 +40,23 @@ Augustinus is written in different formats., but we also don't need the month 'A
 We removed 'augmenterend' en 'augustus'.
 
 
+## Guest list 
+The guest list per episode (see `guests.txt`) is done by using ChatGPT 
+We gave ChatGPT 
+- some context, such as : we are looking for the additional speakers besides Stefan Paas and David Boogerd.
+- two examples from the `descriptions.txt` file 
+- and we gave the answer for the two examples in the format `ANSWER #1: Arjen Lubach` , etc. 
+- then we provided batches of the descriptions of 25 episodes and asked ChatGPT to provide us with the answer.
+
+
+
+ 
+## Changelog
+23 april : Initial version published.
+24 april : Somehow skipped episode 68 in the mp3 download.. Fixed!
+           The Guest list is included
+
+
 
 ### Detailed setup description 
 
